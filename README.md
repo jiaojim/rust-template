@@ -1,4 +1,4 @@
-# Geektime Rust 语言训练营
+# Rust 学习, 来自: https://github.com/tyr-rust-bootcamp/template
 
 ## 环境设置
 
